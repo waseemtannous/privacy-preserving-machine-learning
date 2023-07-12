@@ -1,5 +1,7 @@
 # Privacy Preserving Machine Learning
 
+### Course: Privacy Preserving Machine Learning by Dr. Adi Akavia at The University of Haifa.
+
 This is a Federated Matrix Factorization implementation using homomorphic encryption used for recommendation systems. The project demonstrates a collaborative filtering recommender system where users' data is kept private by performing the matrix factorization using homomorphic encryption techniques.
 
 Referenced paper: [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf)
